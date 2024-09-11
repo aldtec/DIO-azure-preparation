@@ -21,6 +21,6 @@ Este repositório é dedicado à minha jornada de estudo para a certificação A
 
 * **Documentação oficial:** https://docs.microsoft.com/azure/
 * **Microsoft Learn:** [https://learn.microsoft.com/](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
-* **![Mapa da arquitetura do azure]([caminho/para/a/imagem.png](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/enterprise-integration/_images/simple-enterprise-integration.png))
-*  **
+* ![Mapa da arquitetura do azure](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/enterprise-integration/_images/simple-enterprise-integration.png)
+
 **Vamos juntos nessa jornada!**
